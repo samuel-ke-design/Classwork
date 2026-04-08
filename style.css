@@ -2,10 +2,8 @@
     width: 100%;
     height: 600px;
     background-color: rgba(220, 20, 130, 0.844);
-    margin:auto;
     display: flex;
     margin-top: 20px;
-     
 
 }
 .top{
@@ -35,7 +33,6 @@
 
 }
 
-}
 .maneno{
     width: 30px;
     height: 200px;
